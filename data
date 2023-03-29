@@ -1,0 +1,131 @@
+{
+"id": 1,
+"departamento": "Antioquia",
+"coorx": 111,
+"coory": 201,
+"ciudades": [{
+        "nombre": "Andes",
+        "ubix": 300,
+        "ubiy": 762
+    },
+    {
+        "nombre": "Apartad\u00f3",
+        "ubix": 135,
+        "ubiy": 241
+    },
+    {
+        "nombre": "Bello",
+        "ubix": 382,
+        "ubiy": 598
+    },
+    {
+        "nombre": "Caldas",
+        "Ubix": 366,
+        "ubiy": 660
+    },
+    {
+        "nombre": "Caucasia",
+        "ubix": 469,
+        "ubiy": 208
+    },
+    {
+        "nombre": "Ciudad Bol\u00edvar",
+        "ubix": 273,
+        "ubiy": 717
+    },
+    {
+        "nombre": "Copacabana",
+        "ubix": 392,
+        "ubiy": 591
+    },
+    {
+        "nombre": "Envigado",
+        "ubix": 382,
+        "ubiy": 641
+    },
+    {
+        "nombre": "Frontino",
+        "ubix": 252,
+        "ubiy": 499
+    },
+    {
+        "nombre": "Girardota",
+        "ubix": 411,
+        "ubiy": 585
+    },
+    {
+        "nombre": "Guarne",
+        "ubix": 414,
+        "ubiy": 614
+    },
+    {
+        "nombre": "Itag\u00fc\u00ed",
+        "ubix": 371,
+        "ubiy": 635
+    },
+    {
+        "nombre": "La Ceja",
+        "ubix": 417,
+        "ubiy": 674
+    },
+    {
+        "nombre": "La Estrella",
+        "ubix": 364,
+        "ubiy": 648
+    },
+    {
+        "nombre": "Marinilla",
+        "ubix": 436,
+        "ubiy": 634
+    },
+    {
+        "nombre": "Medell\u00edn",
+        "ubix": 380,
+        "ubiy": 619
+    },
+    {
+        "nombre": "Puerto Berr\u00edo",
+        "ubix": 651,
+        "ubiy": 561 
+    },
+    {
+        "nombre": "Rionegro",
+        "ubix": 424,
+        "ubiy": 645
+    },
+    {
+        "nombre": "Sabaneta",
+        "ubix": 384,
+        "ubiy": 648
+    },
+    {
+        "nombre": "Santa Fe de Antioquia",
+        "ubix": 316,
+        "ubiy": 546
+    },
+    {
+        "nombre": "Santa Rosa de Osos",
+        "ubix": 413,
+        "ubiy": 516
+    },
+    {
+        "nombre": "Sons\u00f3n",
+        "ubix": 443,
+        "ubiy": 743
+    },
+    {
+        "nombre": "Turbo",
+        "ubix": 109,
+        "ubiy": 181
+    },
+    {
+        "nombre": "Urrao",
+        "ubix": 250,
+        "ubiy": 603
+    },
+    {
+        "nombre": "Yarumal",
+        "ubix": 416,
+        "ubiy": 454
+    }]
+}
